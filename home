@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Reboot The Planet - Brad Hackerman</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1e1e1e;
+      color: white;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #222;
+      padding: 20px;
+      font-size: 24px;
+    }
+    .content {
+      padding: 30px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .socials a {
+      color: #00aced;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .socials a:hover {
+      color: #00a0d6;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Reboot The Planet</h1>
+    <p>By Brad Hackerman</p>
+  </header>
+
+  <div class="content">
+    <h2>Join the Movement for a Sustainable Future</h2>
+    <p>We live in a time where the actions of corporations are destroying the planet, one bad decision at a time. But we don’t have to sit back and watch. Join me in taking action for the Earth.</p>
+    <p><strong>Expose the lies. Fight for the planet.</strong></p>
+    
+    <p>Follow the movement:</p>
+    <div class="socials">
+      <a href="https://twitter.com/BradHackerman" target="_blank">Twitter</a> |
+      <a href="https://github.com/BradHackerman" target="_blank">GitHub</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>RebootThePlanet &copy; 2024</p>
+  </footer>
+</body>
+</html>
